@@ -1,6 +1,6 @@
 # Fun Time Coding
-- i always find a way to make it more lively
--
--
--
-- You can buy me a coffee i wish to -->
+- I will always find a way to make it more lively
+
+
+
+- You can buy me a coffee if you wish to --> @wickstudio_gh
