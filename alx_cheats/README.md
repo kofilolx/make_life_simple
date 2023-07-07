@@ -27,12 +27,12 @@ The script also sets permissions for the files created
 ## Usage
 
 Instructions on how to use or run the project. 
-- copy and save file in current directory
-- run script : type ./file_dev
-- type the list of file required -seperate file names with space 
-- -Example 0-make_file 1-betty_alx
+- Copy and save file in current directory
+- Run script : type ./file_dev
+- Type the list of file required -seperate file names with space 
+- - Example 0-make_file 1-betty_alx
 - Press the return key or Enter to have it done
-- veriry by checking the list of content in directory
+- Verify by checking the list of content in your current directory [ls ll ll -a ]
 
 
 ## Contributing
