@@ -17,7 +17,7 @@ file_dev has made it simple
 
 ## Introduction
 
-This a script that helps you create multiple files at once and also write a first line on code thus: #!/bin/bash shebang in it for you.
+This a script that helps you create multiple files at once and also write a first line of code thus: #!/bin/bash shebang in it for you.
 Doing hard things to make life easy
 - #DoHardThings
 
